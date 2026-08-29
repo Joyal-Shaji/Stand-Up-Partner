@@ -1,0 +1,30 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "An app to help standing desk users increase productivity, health, and wellbeing.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joyal-Shaji/Stand-Up-Partner.git"
+  },
+  "keywords": [
+    "standup",
+    "desk",
+    "fitness",
+    "productivity",
+    "wellness",
+    "popup"
+  ],
+  "author": "Joyal Shaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joyal-Shaji/Stand-Up-Partner/issues"
+  },
+  "homepage": "https://github.com/Joyal-Shaji/Stand-Up-Partner#readme",
+  "devDependencies": {
+    "electron": "^44.0.0"
+  }
+}
